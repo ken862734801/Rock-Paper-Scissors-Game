@@ -1,0 +1,63 @@
+*{
+    font-family: 'Edu NSW ACT Foundation';
+    color:rgb(34, 34, 34);
+}
+body{
+    min-height:100vh;
+}
+header{
+    text-align: center;
+    font-size:2.5rem;
+}
+.title{
+    text-align: center;
+    font-size:1.35rem;
+}
+.subtitle{
+    text-align:center;
+    font-size:1.35rem;
+}
+.game-container{
+    display:flex;
+    justify-content: center;
+    width:60%;
+    margin: 0 auto;
+    margin-bottom:20px;
+}
+.player-container{
+    margin-right:15px;
+}
+.computer-container{
+    margin-left:15px;
+}
+.image-container >img{
+    max-width:200px;
+    min-width:150px;
+}
+.name{
+    text-align: center;
+    font-size:1.40rem;
+}
+.choice-container{
+    display:flex;
+    justify-content: center;
+    width:60%;
+    margin: 0 auto;
+}
+.choice-container > div > img{
+    max-width:200px;
+    min-width:150px;
+}
+.choice-container > div > img:hover{
+    cursor: pointer;
+    transform: scale(1.05);
+}
+.choice-container > div > img:active{
+    cursor: pointer;
+    transform: scale(0.95);
+}
+.choice-container > div > p{
+    text-align:center;
+    margin-top:-15px;
+    font-size:1.20rem;
+}
