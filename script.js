@@ -79,7 +79,7 @@ function playRound(){
         message.textContent = "Paper beats rock.";
         resultMessage.textContent = "You lose!";
             computerScore+=1;
-            computerScoreDisplay.textContent = `Computer: ${playerScore}`;
+            computerScoreDisplay.textContent = `Computer: ${computerScore}`;
 
     }else if (playerChoice === "paper" && computerChoice === "scissors"){
         message.textContent ="Scissors beats paper.";
