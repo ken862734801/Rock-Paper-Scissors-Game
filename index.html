@@ -10,8 +10,8 @@
     <body>
         <div class="container">
             <header> ROCK, PAPER, SCISSORS </header>
-            <p class="title" id="message">First to five points wins! Good luck!</p>
-            <p class="subtitle" id="resultMessage"></p>
+            <p class="title" id="message">First to five points wins!</p>
+            <p class="subtitle" id="resultMessage">Good luck!</p>
 
             <div class="game-container">
 
@@ -45,6 +45,14 @@
                     <img src="./images/scissors.png" id="scissorsBtn">
                     <p>Scissors</p>
                 </div>
+            </div>
+        </div>
+
+        <div class="modal" id="modal">
+            <div class="modal-content">
+                <p id="end-message">You won!</p>
+                <p id="end-score"></p>
+                <button id="resetBtn">Play again</button>
             </div>
         </div>
     </body>
