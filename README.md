@@ -10,8 +10,7 @@ View on mobile.
 
 ## Summary
 
-The goal of this Odin Project assignment was to use utilize Javascript and DOM manipulation to create a rock, paper, scissors browser game.
-
+The goal of this Odin Project assignment was to use utilize Javascript and DOM manipulation to create a basic rock, paper, scissors browser game.
 
 [Link to the assignment.](https://www.theodinproject.com/lessons/foundations-revisiting-rock-paper-scissors)
 
