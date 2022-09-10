@@ -4,7 +4,7 @@
 https://ken862734801.github.io/Rock-Paper-Scissors-Game/
 
 ## Preview
-<img src="images/Rock-Paper-Scissors-Fullscreen.png">
+<img src="images/Rock-Paper-Scissors.gif">
 <img src="images/Rock-Paper-Scissors-Mobile.png" width="420" height="896">
 View on mobile.
 
